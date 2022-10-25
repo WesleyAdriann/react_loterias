@@ -1,5 +1,4 @@
 import { createGlobalStyle } from "styled-components";
-import { TTheme } from "../tokens";
 
 export const GlobalStyle = createGlobalStyle`
  * {

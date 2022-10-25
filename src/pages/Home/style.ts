@@ -24,7 +24,7 @@ export const SideContainer = styled.div`
   background-position: right;
 `
 
-export const Select = styled.select`
+export const Select = styled.input`
   width: 75%;
 `
 
